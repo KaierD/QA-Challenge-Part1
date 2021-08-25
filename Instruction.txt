@@ -1,0 +1,12 @@
+Dear Manager,
+
+Please open the .sln file by Visual Studio, so that you could have a directly view about the code and run it simply by pressing CTRL+F5.
+
+The 5th requirement "Print the output for all the files in a single run" confuses me a little bit. Since mentioned in the 1st point:" Create a C# script that can open up a text file", I think the script is dealing with one file each time. Therefore, the script is opening up and programming one file when the user select the file to open.
+
+If the original purpose is opening up all the files in the selected folder, I apologize for my misunderstanding. However, just switching the OpenFileDialog to FolderBrowserDialog and adding a loop that goes through all files in the folder should make my script working for checking all files in the selected folder.
+
+
+Thank you for your patience,
+
+Kyle Dong

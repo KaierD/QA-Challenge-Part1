@@ -1,0 +1,14 @@
+C:\Users\kylem\source\repos\QA\QAChallenge\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kylem\source\repos\QA\QAChallenge\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kylem\source\repos\QA\QAChallenge\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kylem\source\repos\QA\QAChallenge\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kylem\source\repos\QA\QAChallenge\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kylem\source\repos\QA\QAChallenge\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kylem\source\repos\QA\QAChallenge\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\kylem\Desktop\Career\GitHub\Uken\QA-Challenge-Part1\QA-Challenge-Part1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kylem\Desktop\Career\GitHub\Uken\QA-Challenge-Part1\QA-Challenge-Part1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kylem\Desktop\Career\GitHub\Uken\QA-Challenge-Part1\QA-Challenge-Part1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kylem\Desktop\Career\GitHub\Uken\QA-Challenge-Part1\QA-Challenge-Part1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kylem\Desktop\Career\GitHub\Uken\QA-Challenge-Part1\QA-Challenge-Part1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kylem\Desktop\Career\GitHub\Uken\QA-Challenge-Part1\QA-Challenge-Part1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kylem\Desktop\Career\GitHub\Uken\QA-Challenge-Part1\QA-Challenge-Part1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
